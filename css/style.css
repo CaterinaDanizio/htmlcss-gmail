@@ -13,3 +13,9 @@ hr
 {
 margin-top: 10px;
 }
+
+/* contenitore blocco di pagina */
+#container {
+  width: 90%;
+  margin: 0 auto;
+}
