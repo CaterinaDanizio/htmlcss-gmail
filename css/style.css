@@ -72,3 +72,15 @@ color: grey;
 .row.unread {
 background-color: white;
 }
+
+/* footer */
+.nome-brand {
+color: white;
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+}
+
+#credits {
+font-size: 14px;
+}
