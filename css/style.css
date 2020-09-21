@@ -34,3 +34,15 @@ position: absolute;
 margin-top: 50px;
 padding-left: 15px;
 }
+
+/* sezione info mail non lette */
+
+h2 {
+color: white;
+}
+#count-mail
+{
+border-radius: 15px;
+background-color: orange;
+padding: 5px;
+}
