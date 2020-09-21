@@ -46,3 +46,25 @@ border-radius: 15px;
 background-color: orange;
 padding: 5px;
 }
+
+/* sezione lista mail */
+.row
+{
+background-color: #ccccff;
+padding: 5px;
+margin: 0;
+border: 1px solid black;
+}
+
+.left-row, .right-row {
+display: inline-block;
+}
+
+.left-row{
+font-weight: bolder;
+}
+
+.right-row
+{
+color: grey;
+}
