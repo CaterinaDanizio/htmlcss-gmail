@@ -68,3 +68,7 @@ font-weight: bolder;
 {
 color: grey;
 }
+
+.row.unread {
+background-color: white;
+}
